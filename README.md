@@ -1,3 +1,4 @@
+[Christina_Perri_-_A_Thousand_Years_CeeNaija.com_.mp3](https://github.com/user-attachments/files/34219624/Christina_Perri_-_A_Thousand_Years_CeeNaija.com_.mp3)
 The birthday gallery uses the photographs in this folder. Add or replace files here, then update `photoPaths` in `script.js` to match their filenames.
 ![image alt](https://github.com/cluichpa-coder/Birthday-Surprise/blob/ddcc88e7edcce4e00d009f2c038ff841ea024917/1020839440508607547.jpg)
 ![image alt](https://github.com/cluichpa-coder/Birthday-Surprise/blob/06d4c208eab44835a7729e096253bf528df7019c/1147080967618080255.jpg)
