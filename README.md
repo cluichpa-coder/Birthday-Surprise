@@ -1,0 +1,1 @@
+The birthday gallery uses the photographs in this folder. Add or replace files here, then update `photoPaths` in `script.js` to match their filenames.
